@@ -50,6 +50,7 @@ The project uses an ERC-20 smart contract deployed at:
 Contract Address: 0x994be4e9d0291b1d15b124589c15307a29f6fe25
 ```
 
+![image](https://github.com/user-attachments/assets/423a31df-8ae6-4ada-a7a0-181c37f20fee)
 
 
 ## License
